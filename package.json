@@ -1,0 +1,68 @@
+{
+  "name": "theapesofficial",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@web3-react/core": "^6.1.1",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.1.6",
+    "@web3-react/walletlink-connector": "^6.1.6",
+    "antd": "^4.17.3",
+    "axios": "^0.26.0",
+    "bootstrap": "^5.1.3",
+    "ethers": "^5.5.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.3",
+    "react-clear-cache": "^1.4.12",
+    "react-dom": "^17.0.2",
+    "react-meta-tags": "^1.0.1",
+    "react-modal": "^3.14.4",
+    "react-multi-carousel": "^2.6.5",
+    "react-notifications": "^1.7.3",
+    "react-responsive-carousel": "^3.2.22",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.0",
+    "react-scroll": "^1.8.4",
+    "react-scroll-to-top": "^1.0.8",
+    "react-simple-image-slider": "^2.3.0",
+    "react-tabs": "^3.2.3",
+    "react-toast-notifications": "^2.5.1",
+    "react-toastify": "^8.1.0",
+    "state-pool": "^0.6.0",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.1.2",
+    "web3": "^1.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.3.0"
+  }
+}
